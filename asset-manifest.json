@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ShopEasy/static/css/main.990f92f7.css",
-    "main.js": "/ShopEasy/static/js/main.4b48bd83.js",
+    "main.css": "/ShopEasy/static/css/main.5bc83836.css",
+    "main.js": "/ShopEasy/static/js/main.9db0d716.js",
     "static/js/787.f88991e5.chunk.js": "/ShopEasy/static/js/787.f88991e5.chunk.js",
     "static/media/2.png": "/ShopEasy/static/media/2.9007d84cdad1aa1ff774.png",
     "static/media/4.jpg": "/ShopEasy/static/media/4.e4e53db86558c45bcde7.jpg",
@@ -10,12 +10,12 @@
     "static/media/1.jpg": "/ShopEasy/static/media/1.c4bb23bc1e1fa537f8f9.jpg",
     "static/media/logo.png": "/ShopEasy/static/media/logo.75b3d808e76225431d18.png",
     "index.html": "/ShopEasy/index.html",
-    "main.990f92f7.css.map": "/ShopEasy/static/css/main.990f92f7.css.map",
-    "main.4b48bd83.js.map": "/ShopEasy/static/js/main.4b48bd83.js.map",
+    "main.5bc83836.css.map": "/ShopEasy/static/css/main.5bc83836.css.map",
+    "main.9db0d716.js.map": "/ShopEasy/static/js/main.9db0d716.js.map",
     "787.f88991e5.chunk.js.map": "/ShopEasy/static/js/787.f88991e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.990f92f7.css",
-    "static/js/main.4b48bd83.js"
+    "static/css/main.5bc83836.css",
+    "static/js/main.9db0d716.js"
   ]
 }
