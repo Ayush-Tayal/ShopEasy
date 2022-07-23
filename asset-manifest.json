@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ShopEasy/static/css/main.1b86c0c7.css",
-    "main.js": "/ShopEasy/static/js/main.972a3444.js",
+    "main.js": "/ShopEasy/static/js/main.fba21a1f.js",
     "static/js/787.dba80a51.chunk.js": "/ShopEasy/static/js/787.dba80a51.chunk.js",
     "static/media/2.png": "/ShopEasy/static/media/2.9007d84cdad1aa1ff774.png",
     "static/media/emptyCart.gif": "/ShopEasy/static/media/emptyCart.459c22ce539b0c34c3ce.gif",
@@ -10,14 +10,15 @@
     "static/media/3.webp": "/ShopEasy/static/media/3.9542139ceccfef0f35e7.webp",
     "static/media/Loading.gif": "/ShopEasy/static/media/Loading.3d4cb6882410eef6e6e2.gif",
     "static/media/1.jpg": "/ShopEasy/static/media/1.c4bb23bc1e1fa537f8f9.jpg",
+    "static/media/orderPlaced.gif": "/ShopEasy/static/media/orderPlaced.20fb71106470345ceb08.gif",
     "static/media/logo.png": "/ShopEasy/static/media/logo.75b3d808e76225431d18.png",
     "index.html": "/ShopEasy/index.html",
     "main.1b86c0c7.css.map": "/ShopEasy/static/css/main.1b86c0c7.css.map",
-    "main.972a3444.js.map": "/ShopEasy/static/js/main.972a3444.js.map",
+    "main.fba21a1f.js.map": "/ShopEasy/static/js/main.fba21a1f.js.map",
     "787.dba80a51.chunk.js.map": "/ShopEasy/static/js/787.dba80a51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b86c0c7.css",
-    "static/js/main.972a3444.js"
+    "static/js/main.fba21a1f.js"
   ]
 }
